@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Representation anent the usefuless and necessity of commisar-courts</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04977</idno><idno type="EEBO-CITATION">52614884</idno>
+  <idno type="VID">176036</idno>
+  <idno type="EEBO-PROQUEST">2248531397</idno>
+  
+            <idno type="STC">Wing R1098A</idno>
+            <idno type="STC">ESTC R182669</idno>
+            <idno type="OCLC">52614884</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176036)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Representation anent the usefuless and necessity of commisar-courts</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ecclesiastical courts --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176036:1"/>
+            <head>REPRESENTATION Anent the Usefulness and Necessity of Commissar-Courts.</head>
+            <p>THe Usefulness and Necessity of Commissar-Courts, both for the Convey<g ref="char:EOLhyphen"/>ance of Moveables, &amp; Decision of Actions competent to these Judicatures, is so well known, that it were unnecessary, to Represent the Consequen<g ref="char:EOLhyphen"/>ces, that might arise by the Suppression of these Courts: Yet in respect, that the Nature of the Judicature, the Methods of their Procedure, and Subject anent which they are Versant, are best known to Lawyers, and that the Abuses and Exactions of some Commissars within the Kingdom, may have created Preju<g ref="char:EOLhyphen"/>dices in the minds of some of the Leidges, to whom the Rise and the Useful<g ref="char:EOLhyphen"/>ness of these Courts are not known: Therefore, the Prejudices against them, may be thus obviated and removed.</p>
+            <p>As
+<list>
+                  <item>1. These Courts have been considered by some, as a Consequence of Popery, or Episcopacy: And therefore, that they ought to be Abolished with Bishops.</item>
+                  <item>2. That the Confirmation of Testaments, or other Processes competent to them, may be remitted to other Inferior Courts, reserving such as are of the greatest Importance, to the Lords of Session.</item>
+               </list>
+            </p>
+            <p>It is answered, 1. That Commissariots had not the least dependance upon Episco<g ref="char:EOLhyphen"/>pacy at their Erection, for at the Reformation when Popery was abolished, all the Of<g ref="char:EOLhyphen"/>ficials Offices which depended upon that Clergy, were also extinguished, &amp; in place thereof the Commissariot of <hi>Edinburgh</hi> was then erected, with an immediat de<g ref="char:EOLhyphen"/>pendance upon the Crown, so that these Commissars had neither the rise when Episcopacy prevailed, nor did any ways depend upon Bishops; and by their Ere<g ref="char:EOLhyphen"/>ction, there was little or nothing left to other Commissars through the King<g ref="char:EOLhyphen"/>dom, either as to Jurisdiction or Emolument; and the Forms of the Judicature, als well as the Jurisdiction, and Execution of the Decreets thereof, were whol<g ref="char:EOLhyphen"/>ly altered from what was practized by the Officials, so that there remained no<g ref="char:EOLhyphen"/>thing Ecclesiastick in the Judicature, but that the most favourable Cases were Remitted to it, which Piety and common Honesty required to be managed and dispatched with the greatest Care, Tenderness and Diligence.</p>
+            <p>The Commissars of <hi>Edinburgh</hi> continued to enjoy a general Jurisdiction over the Kingdom from their Erection in <hi>anno</hi> 1560, till Episcopacy was Established in the year 1609; and the same Parliament 1592, which did fully establish Presbytery, did Ratifie the Commissariot of <hi>Edinburgh,</hi> as ap<g ref="char:EOLhyphen"/>pears by the 25th Act of the printed Index of the unprinted Acts of that Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The Quots of Testaments were exacted and applyed to the Lords of Session, after the abolishing of Popery, till the year 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>09: and by a Clause of the sixth Act of the Paliament holden that year, the Quots were appointed to be payed to the several Arch-Bishops and Bishops.</p>
+            <pb n="2" facs="tcp:176036:2"/>
+            <p> At the Establishment of Episcopacy the said year, Commissars were appointed to confirm all Testaments within their respective Diocies, and the Arch-Bishops and Bishops ob<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ined the Quots thereof, as is fully exprest in the sixth Act <hi>Parl.</hi> 1609, but the Parliament had that regard to the privat Right of the Commissars of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> then in Office, and even to their Successors, that no dismembration of the Ju<g ref="char:EOLhyphen"/>risdiction of that Court could be obtained, till the Commissars of <hi>Edinburgh,</hi> their consent were first procured, and a reasonable Satisfaction made to them and their Successors; and to this end the Arch-Bishops and Bishops upon the one part, and the saids Commissars upon the other, entered into a Submission anent what satis<g ref="char:EOLhyphen"/>faction should be made to them, whereupon there followed a Decreet Arbitral upon the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> day of <hi>June</hi> 1609.</p>
+            <p>Thereafter the Commissars Offices were always during Life, and the Court was still a civil Judicature, without any other Dependance upon the Bishops, than that of Presentation, and the Right of Quots: And therefore, during the Suppression of Epis<g ref="char:EOLhyphen"/>copacy, the Commissars did continue in the same Condition, only depending upon the Crown, and when Bishops were restored in the year 1662, though all other Deeds to their Prejudice; after the year 1637, were rescinded, yet the Rights of the several Commissars Offices, were expresly Ratified.</p>
+            <p>When Presbitry was last established in this Kingdom, there being then greater Exactions in these Courts, than at this time, there was a Design to have Supprest that Judicature, on the same Grounds formerly mentioned, but the Case being fully Considered, it was found, that the Court had no Dependance upon E<g ref="char:EOLhyphen"/>piscopacy and that the use thereof, was so universally Disseminat through our Law, that any Invasion upon the same, would in consequence, have overturned the most necessary Foundations thereof: And therefore, they did continue, during all the time of Presbitry.</p>
+            <p n="2">2. The same Grounds that did formerly satisfie the Parliament, That the Commissariots could not be suppressed, by annexing of their Offices to Sheriffs or Lords of Session, must still satisfie.</p>
+            <p>For 1. It is to be considered, That the annexing their Offices to another Judicature, doth import, the necessity of the being of that Office: and seing the Office must still continue, it is most just, that it do remain in the persons of those, who have fitted themselves for their Imployments, and who have ac<g ref="char:EOLhyphen"/>quired these Offices, for most onerous Causes during life; So that albeit the publick Interest of the Nation, might preponder the Interest of a privat Party, so far as to suppress an unnecessar Office, yet the security of privat Right, doth require, that so much of that Office as doth remain, should pertain to these who are legally possest of it, rather then to be gratuitously given to others, who have no claim to it.</p>
+            <p n="2">2. Sheriffships and Regalities, are oftimes heretable; and such as are not so, are not supplied by persons chosen, upon any consideration of their fitness or ca<g ref="char:EOLhyphen"/>pacity, in the Decision of Matters of Law, the Businesses that falls before them, being commonly possessory, or concerning the Peace of the Country, which are not of Intricacy; whereas the most nice, delicat and precise Debates in our Law, do arise upon these Subjects, which properly are reserved to the Commissa<g ref="char:EOLhyphen"/>riots, as the Conveyances of Moveables, in which a thousand delicat Debates do a<g ref="char:EOLhyphen"/>rise, which have never yet fallen under the Decision of any other Court; and the particular knowledge of this great Branch of our Law, is preserved by the practice of Commissariots, to which the Lords have no small regard; And are altogether un<g ref="char:EOLhyphen"/>known to other Inferior Judges within this Kingdom.</p>
+            <pb n="3" facs="tcp:176036:2"/>
+            <p> The Debates also arising anent Teinds, are subtile and various; as most of all the Cases that are particularly reserved to Commissariots, and could not be fitly determined by any other Inferior Judicature; neither can these cases be properly decided by the Lords of Session, because of the multiplicity of Bu<g ref="char:EOLhyphen"/>siness depending before them, which would render Parties attendance most chargeable and expensive. Whereas, many Affairs concerning Orphants, Wi<g ref="char:EOLhyphen"/>dows and poor people, cannot admit of delay, nor bear the necessar Ex<g ref="char:EOLhyphen"/>pence of such Processes before the Lords; and therefore the Commissars do, and must proceed Session and Vaccance, as Affairs occur; and their Summonds are peremptor without continuation: So that Parties have always their proper Judge at hand, which would all be contrare, if the Cognition of these Matters were taken to the Lords.</p>
+            <p n="3">3. There is no Nation that wants a particular Judicature, for Consistorial matters: So that the ground of Clamour being only in relation to the abuses, and exorbitant exactions of some Commissars, the natural consequence is only to Regulat their Rates; for which effect, several Commissions have been granted, and the Commissars are fully satisfied, that there be an effectual course for Regu<g ref="char:EOLhyphen"/>lation, both of the Dues of Testaments, (which is special in their Courts) and of ordinar Actions, wherein their case is common with other Judicatures, and that in the saids Regulations, there be a due regard had both to the reason<g ref="char:EOLhyphen"/>able ease of the Leidges; and also that there be a competent Emolument left to the Possessors of these Offices, which may enable them to the diligent and faithful Exercise thereof, and may encourage others of good capacity to breed and fit themselves for the discharging of the same; For if some competent Emolument do not remain, it cannot be expected, that such as are most fit and proper for these Offices, will imploy their time improfitably in them, whereby they will fall in the hands of Ignorant, Unskilful persons; which will be very prejudicial to many persons, whose affairs, most necessarly fall to be considered in these Courts, and that which was most Grievous and Burdensom to the Leiges, was,</p>
+            <p n="1">1. The Quots of Testaments, which of all other Charges, was most unwilling<g ref="char:EOLhyphen"/>ly paid; And by the abolishing of Episcopacy, is now laid aside; And next, the summar Charges of Horning, formerly given to Confirm Testaments, which by the late Act of Parliament are discharged. So that a reasonable Regulation of the ordinary Dues, payable to the Commissars, will disburden the Leiges of all that was grievous in that Court, and set known bounds to any particular Com<g ref="char:EOLhyphen"/>missars who have been used to exorbitant Exactions, who were most part these who were at greatest distance from the Seat of Justice, whereby the Leiges had neither Information of what might be justly exacted, nor could without great charge obtain Redress, which by some living in these Bounds, was looked up<g ref="char:EOLhyphen"/>on as the practices of all the Commissars of the Kingdom.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
